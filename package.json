@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "xterm": "^5.1.0",
+    "xterm-addon-fit": "^0.7.0",
+    "xterm-addon-search": "^0.11.0",
+    "xterm-addon-web-links": "^0.8.0"
+  },
+  "name": "mqtt-web-terminal",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "python3 -m http.server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewangdev/MQTT-Web-Terminal.git"
+  },
+  "keywords": [
+    "mqtt",
+    "web-terminal"
+  ],
+  "author": "Le Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewangdev/MQTT-Web-Terminal/issues"
+  },
+  "homepage": "https://github.com/lewangdev/MQTT-Web-Terminal#readme"
+}
